@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Hellhole'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_23B0264546764F688CC20275B87BA6C1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43823F31530F41B889CBFE3873026E0C }}
           package: .
